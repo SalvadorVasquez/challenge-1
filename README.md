@@ -9,7 +9,7 @@ SO THAT our own site is optimized for search engines
 ```
 ## ScreenShot
 
-![alt text](Assets/image-01.jpg)
-![alt text](Assets/image.png)
+![alt text](Assets/Screenshots/image-01.jpg)
+![alt text](Assets/Screenshots/image.png)
 
 ##
