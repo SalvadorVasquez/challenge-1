@@ -9,8 +9,8 @@ SO THAT our own site is optimized for search engines
 ```
 ## ScreenShot
 
-![alt text](Assets/Screenshots/image-01.jpg)
-![alt text](Assets/Screenshots/image.png)
+![alt text](Screenshots/image-01.jpg)
+![alt text](Screenshots/image.png)
 
 ## Description
 
